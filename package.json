@@ -1,11 +1,11 @@
 {
     "name": "MDK-Launcher",
-    "preductname": "MDK Launcher",
+    "preductname": "MDK Launcher-admins",
     "version": "1.3.9",
-    "description": "Launcher de MDK Game Team",
+    "description": "Launcher de MDK Game Team Version Admin",
     "main": "src/app.js",
     "author": "MDKTeam",
-    "url": "http://n3.boxmine.xyz:3120",
+    "url": "http://n3.boxmine.xyz:3159",
     "engines": {
         "node": "^18.x.x"
     },
@@ -35,6 +35,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DexRevil/MDK-Launcher.git"
+        "url": "git+https://github.com/Developers-MDK/MDK-Launcher.git"
     }
 }
