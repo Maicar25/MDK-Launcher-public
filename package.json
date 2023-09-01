@@ -1,8 +1,8 @@
 {
     "name": "MDK-Launcher-admins",
-    "preductname": "MDK Launcher-admins",
-    "version": "1.4.0",
-    "description": "Launcher de MDK Game Team Version Admin",
+    "preductname": "MDK Launcher (Admins)",
+    "version": "1.4.1",
+    "description": "Launcher de MDK Game Team - Version Admin",
     "main": "src/app.js",
     "author": "MDKTeam",
     "url": "http://n3.boxmine.xyz:3159",
