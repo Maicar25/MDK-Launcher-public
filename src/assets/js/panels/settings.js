@@ -167,7 +167,7 @@ class Settings {
         let settingsLauncher = {
             uuid: "1234",
             launcher: {
-                close: launcherDatabase?.launcher?.close || 'close-launcher'
+                close: launcherDatabase?.launcher?.close || 'open-launcher'
             }
         }
 
@@ -180,7 +180,7 @@ class Settings {
         } else if(settingsLauncher.launcher.close === 'close-all') {
             closeAll.checked = false;
         } else if(settingsLauncher.launcher.close === 'open-launcher') {
-            openLauncher.checked = true;
+            openLauncher.checked = false;
         }
 
         closeLauncher.addEventListener("change", () => {

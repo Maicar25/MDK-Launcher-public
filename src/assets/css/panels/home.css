@@ -115,7 +115,8 @@
 }
 
 .text-download {
-    font-size: 15px;
+    font: normal normal normal 25px/35px Poppins;
+    text-shadow: rgb(255, 255, 255) 1px 0 8px;
 }
 
 .progress-bar {
