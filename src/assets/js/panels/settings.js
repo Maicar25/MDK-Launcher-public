@@ -180,7 +180,7 @@ class Settings {
         } else if(settingsLauncher.launcher.close === 'close-all') {
             closeAll.checked = false;
         } else if(settingsLauncher.launcher.close === 'open-launcher') {
-            openLauncher.checked = false;
+            openLauncher.checked = true;
         }
 
         closeLauncher.addEventListener("change", () => {
