@@ -1,7 +1,7 @@
 {
     "name": "MDK-Launcher-admins",
     "preductname": "MDK Launcher (Admins)",
-    "version": "1.4.3",
+    "version": "1.4.4",
     "description": "Launcher de MDK Game Team - Version Admin",
     "main": "src/app.js",
     "author": "MDKTeam",
