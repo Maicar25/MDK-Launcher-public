@@ -2,7 +2,7 @@
     "name": "MDK-Launcher-public",
     "preductname": "MDK Launcher (Public)",
     "version": "1.4.5",
-    "description": "Launcher de MDK Game Team",
+    "description": "Launcher de MDK Game Team para la comunidad",
     "main": "src/app.js",
     "author": "MDKTeam",
     "url": "http://n3.boxmine.xyz:3120",
