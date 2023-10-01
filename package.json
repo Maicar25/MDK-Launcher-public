@@ -1,7 +1,7 @@
 {
     "name": "MDK-Launcher-public",
     "preductname": "MDK Launcher (Public)",
-    "version": "1.4.7",
+    "version": "1.4.8",
     "description": "Launcher de MDK Game Team para la comunidad de mdk",
     "main": "src/app.js",
     "author": "MDKTeam",
@@ -35,6 +35,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Developers-MDK/MDK-Launcher.git"
+        "url": "git+https://github.com/Maicar25/MDK-Launcher-public.git"
     }
 }
