@@ -5,7 +5,7 @@
     "description": "Launcher de MDK Game Team para la comunidad de mdk",
     "main": "src/app.js",
     "author": "MDKTeam",
-    "url": "http://n3.boxmine.xyz:3159",
+    "url": "http://n3.boxmine.xyz:3159/",
     "engines": {
         "node": "^18.x.x"
     },
